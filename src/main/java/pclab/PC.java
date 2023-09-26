@@ -24,5 +24,6 @@ public class PC {
         drawLogo();
         motherboard.loadProgram("Photoshop");
     }
+    
 
 }
